@@ -1,4 +1,4 @@
-# Jawaban soal test maggang Quality Assurance engineer
+# Jawaban soal test magang Quality Assurance engineer
 ## Knowledge base
 ### 1 
 REST API (Antarmuka Pemrograman Aplikasi Transfer Status Representasional) adalah seperangkat aturan dan konvensi untuk membangun dan berinteraksi dengan layanan web. Ini adalah gaya arsitektur yang banyak digunakan untuk merancang aplikasi jaringan, khususnya melalui HTTP (Hypertext Transfer Protocol). RESTful API biasanya digunakan untuk layanan web, dan memungkinkan sistem perangkat lunak yang berbeda untuk berkomunikasi satu sama lain melalui internet.
